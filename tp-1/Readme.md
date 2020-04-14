@@ -4,7 +4,7 @@
 
 **Conflicto con el merge**
 
-* Cuando se quiere mergear la rama Clon con la rama Master se produce un conflicto 
+* Cuando se quiere mergear las dos ramas (Master y Clon) se produce un conflicto 
 
 ![image1](https://github.com/rober16/ing-lab-4/blob/master/tp-1/imagenes/conflictoMerge.png)
 
